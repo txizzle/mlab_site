@@ -634,13 +634,8 @@ color: #ECEBEB;
 
 .morph-button > button {
 	position: relative;
-	padding: 0 1em;
-	border: none;
-	background-color: #e85657;
 	color: #f9f6e5;
-	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-weight: 700;
 	line-height: 80px;
 	overflow: hidden;
 }
@@ -883,7 +878,7 @@ color: #ECEBEB;
 
 .morph-button-inflow > button {
 	width: 100%;
-	line-height: 50px;
+	line-height: 70px;
 }
 
 .morph-button-inflow .morph-content {
