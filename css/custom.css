@@ -450,7 +450,19 @@ NO MORE TABLES!! ;)
 	padding: 10px;
 }
 
+.open-popup-div {
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
 
+.open-popup-div > button {
+	position: relative;
+	color: #f9f6e5;
+	letter-spacing: 1px;
+	line-height: 80px;
+	overflow: hidden;
+}
 
 
 

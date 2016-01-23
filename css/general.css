@@ -632,7 +632,7 @@ color: #ECEBEB;
 	margin: 0 auto;
 }
 
-.morph-button > button {
+.morph-button > a {
 	position: relative;
 	color: #f9f6e5;
 	letter-spacing: 1px;
@@ -640,7 +640,7 @@ color: #ECEBEB;
 	overflow: hidden;
 }
 
-.morph-button.open > button {
+.morph-button.open > a {
 	pointer-events: none;
 }
 
@@ -876,7 +876,7 @@ color: #ECEBEB;
 	max-height: 150px;
 }
 
-.morph-button-inflow > button {
+.morph-button-inflow > a {
 	width: 100%;
 	line-height: 70px;
 }
