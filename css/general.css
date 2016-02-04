@@ -158,6 +158,18 @@ filter: alpha(opacity=95) !important;
 	background-color:#4A90BE;
 }
 
+.mybutton_fb{
+	border: 1px solid #425f9c;
+	color: #fff !important;
+	background: rgba(204, 204, 204, 0);
+}
+
+.mybutton_fb:hover{
+	border: 1px solid #425f9c;
+	color: #fff !important;
+	background-color:#425f9c;
+}
+
 .mybutton_sub{
 	border: 1px solid white;
 	color: white !important;
