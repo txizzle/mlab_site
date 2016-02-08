@@ -132,6 +132,13 @@ padding: 8px 12px;
 	background: #f3f3f3;
 	text-align: center
 }
+
+.ocf
+{padding-top: 10px;}
+
+p.small {
+	font-size: 8px;
+}
 .twitter-share-button{
 	top: 4px;
 	position: relative;
